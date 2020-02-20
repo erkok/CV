@@ -53,7 +53,7 @@ h4 {
 	background: #a6a1cc;
 	display: block;
 }
-.sidebar section:first-child {
+.sidebar .secavatar {
  	min-height: 330px;
  	text-align: center;
 }
@@ -224,7 +224,7 @@ h3 {
 .sidebar {
     width: 100%;
 }
-.sidebar section:first-child {
+.sidebar .secavatar {
     height: 25vh;
 }
 .avatar {
@@ -325,7 +325,7 @@ h3 {
     width: 150px;
     margin: 40px;
 }
-.sidebar section:first-child {
+.sidebar .secavatar {
     min-height: 220px;
 }
 
